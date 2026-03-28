@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashik Gujar</h1>
-<h3 align="center">Software Engineer 2 | GenAI & Backend Systems | Building Scalable AI-Powered Platforms</h3>
+<h3 align="center">Software Engineer 2 | GenAI & Backend Systems | MTECH @ IIIT ALLAHABAD </h3>
 
 <p align="center">
   <a href="mailto:prashikgujar752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
